@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 - 🌱 I’m currently learning: Java
 - Previously: C, C++, HTML, CSS, JS.
 <h3 align="left">Languages and Tools:</h3>
