@@ -14,9 +14,9 @@
  <h3 align="left">Socials: </h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/>
  
-
+<div id="stats" align="center">
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) 
-
+</div>
 <!--
 **AlekSimonovski/AlekSimonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
