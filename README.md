@@ -15,12 +15,11 @@
  <h3 align="left">Socials: </h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/>
  <h3>Stats:</h3>
- <a href="https://github.com/AlekSimonovski/github-readme-stats">
+ 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" />
-</a>
-<a href="https://github.com/AlekSimonovski/convoychat">
+
   <img align="center" right="2%" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
-</a>
+
 
 <!--
 **AlekSimonovski/AlekSimonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
