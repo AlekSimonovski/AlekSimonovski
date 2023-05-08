@@ -17,7 +17,7 @@
  
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski)](https://github.com/AlekSimonovski/github-readme-stats)
 
 <!--
 **AlekSimonovski/AlekSimonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
