@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hola 👋</h2><hr>
+<h2 align="center"> Hola 👋</h2>
 <div id="header" align="center">
   <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="520" height="345"/>
 </div>
@@ -17,6 +17,7 @@
  
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlekSimonovski/AlekSimonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
