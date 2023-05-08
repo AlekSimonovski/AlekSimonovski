@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hola 👋</h2>
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="520" height="345"/>
+  <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="500" height="335"/>
 </div>
 <hr>
 - 🌱 I’m currently learning: Java <br>
