@@ -14,10 +14,12 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/2048px-LoL_icon.svg.png" alt="lol" width="38" height="40"/>
  <h3 align="left">Socials: </h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/>
- 
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski)](https://github.com/AlekSimonovski/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekSimonovski=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekSimonovski&repo=convoychat" />
+</a>
 
 <!--
 **AlekSimonovski/AlekSimonovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
