@@ -15,7 +15,7 @@
  <h3 align="left">Socials: </h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekSimonovski=github-readme-stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
