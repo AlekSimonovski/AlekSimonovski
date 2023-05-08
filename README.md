@@ -16,9 +16,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/>
  <h3>Stats:</h3>
  
-  <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" />
+  <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" /> <img align="center" right="2%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
 
-  <img align="center" right="2%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
+  
 
 
 <!--
