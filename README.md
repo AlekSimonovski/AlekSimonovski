@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="520" height="345"/>
 </div>
+<hr>
 - 🌱 I’m currently learning: Java <br>
 - Previously: C, C++, HTML, CSS, JS. <br>
 - Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="32" height="34" bottom="2%"/>
