@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
+  <img align="center" right="2%" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
 </a>
 
 <!--
