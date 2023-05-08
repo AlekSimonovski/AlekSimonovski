@@ -12,4 +12,4 @@
 
 - 🌱 I’m currently learning: Java
 - Previously: C, C++, HTML, CSS, JS.
-
+- Lifetime Real Madrid fan. <p align="left"> <img src="https://en.m.wikipedia.org/wiki/File:Real_Madrid_CF.svg" alt="c" width="40" height="40"/>
