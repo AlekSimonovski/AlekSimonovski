@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hola 👋</h2>
+<h2 align="center"> Hola 👋</h2><hr>
 <div id="header" align="center">
   <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="520" height="345"/>
 </div>
