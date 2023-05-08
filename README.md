@@ -1,7 +1,7 @@
 
 ### Hola 👋
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="575" height="360"/>
+  <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="550" height="350"/>
 </div>
 - 🌱 I’m currently learning: Java
 - Previously: C, C++, HTML, CSS, JS.
