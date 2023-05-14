@@ -15,7 +15,7 @@
  <h3 align="left">Current Hobby(😄): </h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/2048px-LoL_icon.svg.png" alt="lol" width="38" height="40"/>
  <h3 align="left">Socials: </h3>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="ld" width="38" height="40"/>
+ <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="ld" width="38" height="40"/></p>
  <h3>Stats:</h3>
  
   <img align="center" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=AlekSimonovski&theme=tokyonight&border_radius=5" /> <img align="center" width="400" height="160" padding="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekSimonovski&repo=convoychat" />
