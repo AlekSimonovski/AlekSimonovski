@@ -6,7 +6,7 @@
 <hr>
 - I’m currently learning: Java <br>
 - Previously: C, C++, HTML, CSS, JS, SQL, DrawIO. <br>
-<p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="28" height="30" bottom="2%"/></p>
+<p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="32" height="34" bottom="50%"/></p>
 <h4 align="left">Contact:</h4>
 📧: alek.simonovski02@gmail.com
 <h3 align="left">Languages and Tools:</h3>
