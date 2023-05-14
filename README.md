@@ -15,7 +15,7 @@
  <p align="left"> Non-programming languages too, like:<br>
   -English, <br>
   -German & <br>
-  -Spanish  <img src="2.gif" height="90" width="90">
+  -Spanish  <img src="https://media4.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" height="24" width="24">
 
  <h3 align="left">Socials: </h3>
  <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="ld" width="38" height="40"/></p>
