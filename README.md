@@ -7,7 +7,7 @@
 - I’m currently learning: Java <br>
 - Previously: C, C++, HTML, CSS, JS, SQL, DrawIO. <br>
 <p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="22" height="25"></p>
-<h4 align="left">Contact:</h4>
+<h3 align="left">Contact:</h3>
 📧: alek.simonovski02@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="36" height="40"/> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c#" width="40" height="40"/ <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="38" height="36"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" width="46" height="44"/> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="42" height="44"/>
