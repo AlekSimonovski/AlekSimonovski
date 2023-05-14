@@ -6,7 +6,7 @@
 <hr>
 - I’m currently learning: Java <br>
 - Previously: C, C++, HTML, CSS, JS, SQL, DrawIO. <br>
-<p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="32" height="34" bottom="50%"/></p>
+<p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="22" height="25"></p>
 <h4 align="left">Contact:</h4>
 📧: alek.simonovski02@gmail.com
 <h3 align="left">Languages and Tools:</h3>
@@ -15,7 +15,7 @@
  <p align="left"> Non-programming languages too, like:<br>
   -English, <br>
   -German & <br>
-  -Spanish <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="loading" width="26" height="26"> </p>
+  -Spanish <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="loading" width="22" height="22"> </p>
  <h3 align="left">Socials: </h3>
  <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="ig" width="38" height="40"/><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="ld" width="38" height="40"/></p>
  <h3>Stats:</h3>
