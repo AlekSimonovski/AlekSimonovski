@@ -4,8 +4,8 @@
   <img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=2000" width="500" height="335"/>
 </div>
 <hr>
-- I’m currently learning: Java <br>
-- Previously: C, C++, HTML, CSS, JS, SQL, DrawIO. <br>
+- I’m currently working on a react web application. <br>
+- Previously learnt: C, C++, HTML, CSS, Java, JS, SQL, Bootstrap, DrawIO. <br>
 <p align="left">- Lifetime Real Madrid fan  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="c" width="22" height="25"></p>
 <h3 align="left">Contact:</h3>
 📧: alek.simonovski02@gmail.com
